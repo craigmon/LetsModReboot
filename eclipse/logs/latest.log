@@ -1,0 +1,15 @@
+[12:51:49] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[12:51:49] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[12:51:55] [Server thread/INFO]: Loading properties
+[12:51:55] [Server thread/INFO]: Default game type: SURVIVAL
+[12:51:55] [Server thread/INFO]: Generating keypair
+[12:51:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:51:55] [Server thread/INFO]: Preparing level "world"
+[12:51:56] [Server thread/INFO]: Preparing start region for level 0
+[12:51:56] [Server thread/INFO]: Done (0.316s)! For help, type "help" or "?"
+[12:51:56] [Server thread/INFO]: Stopping server
+[12:51:56] [Server thread/INFO]: Saving players
+[12:51:56] [Server thread/INFO]: Saving worlds
+[12:51:56] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:51:56] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[12:51:56] [Server thread/INFO]: Saving chunks for level 'world'/The End
